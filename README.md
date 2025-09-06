@@ -25,9 +25,9 @@ By offering a clear visualization pipeline and per-fiber data export, this tool 
 
 ---
 
-## Project PDF
+## Project Report PDF
 
-- **Project overview PDF:** [`docs/Fibrelytics.pdf`](docs/Fibrelytics.pdf)
+- **Project Report PDF:** [`docs/Fibrelytics.pdf`](docs/Fibrelytics.pdf)
 
 
 
