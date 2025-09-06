@@ -78,7 +78,7 @@ How It Works (Pipeline Summary)
 ## Development Note
 
 This project was developed under **time constraints in just 2 weeks**:  
-- **Week 1:** Reading the research paper, trying to understand the problem, contacting the requestor (a non-technical stakeholder) to clarify requirements, and writing the report.  
-- **Week 2:** Implementing the GUI and backend pipeline into a working prototype and .  
+- **Week 1:** Reading the research paper, trying to understand the problem, and contacting the requestor (a non-technical stakeholder) to clarify requirements.  
+- **Week 2:** Implementing the GUI and backend pipeline into a working prototype, and writing the report.  
 
  **Please note:** this project was developed using **only one image** due to privacy and confidentiality reasons. Because of this, further testing and improvements are required before it can be considered production-ready.  
