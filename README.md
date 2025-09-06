@@ -1,9 +1,8 @@
-# FibreLytics — Composite Fiber Analysis Tool
+# FibreLytics a Composite Fiber Analysis Tool
 
 FibreLytics is a desktop computer vision app that analyzes cross-section images of fiber-reinforced composite tapes.  
 It detects fibers, identifies centers and radii (ray-casting), segments contours (watershed), and computes **Fiber Volume Fraction (Vf)**.  
 
-> GUI = Tkinter (frontend) • Image pipeline = OpenCV/scikit-image/SciPy/NumPy (backend)
 
 ---
 
@@ -23,7 +22,6 @@ By offering a clear visualization pipeline and per-fiber data export, this tool 
 > **Screenshot source:** sample tape image is from:  
 > N. Katuin, D. M. J. Peeters, and C. A. Dransfeld, *“Method for the Microstructural Characterisation of Unidirectional Composite Tapes,”* **Journal of Composites Science**, 5(10):275, 2021. DOI: 10.3390/jcs5100275.
 
-> Place your image at `assets/sample_tape.png` or update the path above.
 
 ---
 
@@ -31,8 +29,7 @@ By offering a clear visualization pipeline and per-fiber data export, this tool 
 
 - **Project overview PDF:** [`docs/Fibrelytics.pdf`](docs/Fibrelytics.pdf)
 
-> Add your PDF file to the repo at `docs/Fibrelytics.pdf`.  
-> (If you use a different location, update the link.)
+
 
 ---
 
